@@ -1,0 +1,12 @@
+{
+  "name": "jb55-hide",
+  "description": "Hide an element",
+  "version": "0.0.1",
+  "keywords": [
+    "hide",
+    "display"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
